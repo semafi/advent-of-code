@@ -1,9 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": null,
-  "javascript.format.enable": true,
-  "prettier.useTabs": true,
-  "prettier.printWidth": 200,
-  "prettier.semi": false,
-  "prettier.arrowParens": "avoid"
-}
